@@ -21,3 +21,5 @@ dist
 !.yarn/versions
 
 .turbo
+
+*.code-workspace
